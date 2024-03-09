@@ -1,0 +1,23 @@
+#seo {
+    padding-top: 80px;
+  .container {
+    padding-left: 20px;
+    color: $base-color;
+
+    p {
+      font-weight: 400;
+      line-height: 160%;
+    }
+    button {
+      width: 100%;
+      padding-top: 16px;
+      padding-bottom: 18px;
+      border: none;
+      color: $base-green;
+
+      background: #e0ece9;
+      border-radius: 10px;
+      margin-top: 30px;
+    }
+  }
+}
